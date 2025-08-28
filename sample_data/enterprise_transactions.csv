@@ -1,0 +1,201 @@
+txn_id,date,amount,account_id,counterparty
+TXN1001,2024-01-02,15750.50,ACC201,Enterprise Solutions Corp
+TXN1002,2024-01-02,3890.25,ACC202,Global Tech Industries
+TXN1003,2024-01-02,2500000.00,ACC201,CRITICAL ALERT - Terror Finance Network
+TXN1004,2024-01-03,8200.75,ACC203,Innovation Partners LLC
+TXN1005,2024-01-03,12450.00,ACC204,Strategic Consulting Group
+TXN1006,2024-01-03,6750.25,ACC205,Digital Transformation Inc
+TXN1007,2024-01-04,18950.50,ACC201,Enterprise Software Solutions
+TXN1008,2024-01-04,4200.75,ACC202,Cloud Infrastructure Corp
+TXN1009,2024-01-04,3800000.00,ACC203,MAXIMUM RISK - ISIS Cell Funding
+TXN1010,2024-01-05,9850.25,ACC204,Business Intelligence Ltd
+TXN1011,2024-01-05,14750.00,ACC205,Market Analytics Corp
+TXN1012,2024-01-05,5600.75,ACC201,Monthly Software Licensing
+TXN1013,2024-01-08,22500.50,ACC202,Quarterly Enterprise Payment
+TXN1014,2024-01-08,7300.25,ACC203,Technology Integration Services
+TXN1015,2024-01-08,1950000.00,ACC204,RED FLAG - Dark Web Proceeds
+TXN1016,2024-01-09,16200.75,ACC205,Digital Marketing Campaign
+TXN1017,2024-01-09,11850.00,ACC201,Professional Services Contract
+TXN1018,2024-01-09,8750.25,ACC202,Infrastructure Maintenance
+TXN1019,2024-01-10,25600.50,ACC203,Strategic Partnership Investment
+TXN1020,2024-01-10,4950.75,ACC204,Weekly Operations Support
+TXN1021,2024-01-10,4500000.00,ACC205,EXTREME ALERT - Cartel Money Laundering
+TXN1022,2024-01-11,13400.25,ACC201,Enterprise License Renewal
+TXN1023,2024-01-11,19750.00,ACC202,Cloud Migration Services
+TXN1024,2024-01-11,6200.75,ACC203,Security Audit Services
+TXN1025,2024-01-12,28950.50,ACC204,Quarterly Consulting Fees
+TXN1026,2024-01-12,9800.25,ACC205,Digital Asset Management
+TXN1027,2024-01-12,2750000.00,ACC201,WARNING - Suspicious Wire Transfer
+TXN1028,2024-01-15,17650.75,ACC202,Mid-Month Processing
+TXN1029,2024-01-15,12300.00,ACC203,Technology Stack Upgrade
+TXN1030,2024-01-15,8450.25,ACC204,Business Process Optimization
+TXN1031,2024-01-16,23800.50,ACC205,Strategic Initiative Launch
+TXN1032,2024-01-16,5750.75,ACC201,Regular Maintenance Contract
+TXN1033,2024-01-16,3200000.00,ACC202,CRITICAL - Human Trafficking Funds
+TXN1034,2024-01-17,14950.25,ACC203,Innovation Lab Investment
+TXN1035,2024-01-17,21600.00,ACC204,Enterprise Architecture Services
+TXN1036,2024-01-17,7850.75,ACC205,Market Research Initiative
+TXN1037,2024-01-18,32500.50,ACC201,Major Client Implementation
+TXN1038,2024-01-18,11200.25,ACC202,Cloud Security Enhancement
+TXN1039,2024-01-18,1850000.00,ACC203,ALERT - Cybercrime Proceeds
+TXN1040,2024-01-19,18750.75,ACC204,Weekly Enterprise Support
+TXN1041,2024-01-19,9650.00,ACC205,Digital Innovation Services
+TXN1042,2024-01-19,6300.25,ACC201,Standard Processing Fee
+TXN1043,2024-01-22,27800.50,ACC202,Strategic Technology Investment
+TXN1044,2024-01-22,13950.75,ACC203,Business Intelligence Platform
+TXN1045,2024-01-22,4650000.00,ACC204,MAXIMUM RISK - Arms Dealer Financing
+TXN1046,2024-01-23,22400.25,ACC205,Enterprise Integration Project
+TXN1047,2024-01-23,8750.00,ACC201,Monthly Service Agreement
+TXN1048,2024-01-23,16850.75,ACC202,Cloud Infrastructure Expansion
+TXN1049,2024-01-24,19500.50,ACC203,Digital Transformation Consulting
+TXN1050,2024-01-24,12650.25,ACC204,Enterprise Software Development
+TXN1051,2024-01-24,3950000.00,ACC205,RED ALERT - State Sponsor Terrorism
+TXN1052,2024-01-25,25300.75,ACC201,Quarterly Performance Bonus
+TXN1053,2024-01-25,7400.00,ACC202,Technology Maintenance Services
+TXN1054,2024-01-25,14200.25,ACC203,Innovation Partnership Investment
+TXN1055,2024-01-26,31750.50,ACC204,Strategic Consulting Engagement
+TXN1056,2024-01-26,9950.75,ACC205,Market Analytics Platform
+TXN1057,2024-01-26,2150000.00,ACC201,WARNING - Money Laundering Risk
+TXN1058,2024-01-29,18450.25,ACC202,Month-End Processing Services
+TXN1059,2024-01-29,11800.00,ACC203,Technology Stack Optimization
+TXN1060,2024-01-29,23600.75,ACC204,Enterprise Security Audit
+TXN1061,2024-01-30,16900.50,ACC205,Digital Marketing Analytics
+TXN1062,2024-01-30,8250.25,ACC201,Final January Processing
+TXN1063,2024-01-30,5100000.00,ACC202,EXTREME - Organized Crime Network
+TXN1064,2024-01-31,29850.75,ACC203,January Close Processing
+TXN1065,2024-01-31,13750.00,ACC204,Month-End Enterprise Services
+TXN1066,2024-01-31,7650.25,ACC205,Final Month Processing
+TXN1067,2024-02-01,35200.50,ACC201,February Opening Enterprise
+TXN1068,2024-02-01,12450.75,ACC202,New Month Cloud Services
+TXN1069,2024-02-01,2850000.00,ACC203,CRITICAL - Terror Cell Network
+TXN1070,2024-02-01,19750.25,ACC204,February Strategic Initiative
+TXN1071,2024-02-02,8900.00,ACC205,Weekly Technology Support
+TXN1072,2024-02-02,26500.75,ACC201,Enterprise License Management
+TXN1073,2024-02-05,14850.50,ACC202,Monday Processing Services
+TXN1074,2024-02-05,21600.25,ACC203,Innovation Lab Expansion
+TXN1075,2024-02-05,4750000.00,ACC204,RED FLAG - Nuclear Material Financing
+TXN1076,2024-02-06,17950.75,ACC205,Digital Asset Development
+TXN1077,2024-02-06,11200.00,ACC201,Mid-Week Enterprise Support
+TXN1078,2024-02-06,8650.25,ACC202,Cloud Infrastructure Management
+TXN1079,2024-02-07,33750.50,ACC203,Strategic Partnership Development
+TXN1080,2024-02-07,15400.75,ACC204,Enterprise Architecture Consulting
+TXN1081,2024-02-07,3450000.00,ACC205,ALERT - Sanctions Evasion Funds
+TXN1082,2024-02-08,24200.25,ACC201,Weekly Enterprise Operations
+TXN1083,2024-02-08,9850.00,ACC202,Technology Integration Support
+TXN1084,2024-02-08,18500.75,ACC203,Business Intelligence Enhancement
+TXN1085,2024-02-09,27600.50,ACC204,Strategic Technology Investment
+TXN1086,2024-02-09,13950.25,ACC205,Digital Innovation Platform
+TXN1087,2024-02-09,1750000.00,ACC201,WARNING - Cryptocurrency Laundering
+TXN1088,2024-02-12,32400.75,ACC202,Valentine Week Enterprise Special
+TXN1089,2024-02-12,16800.00,ACC203,Mid-February Technology Upgrade
+TXN1090,2024-02-12,7250.25,ACC204,Regular Processing Services
+TXN1091,2024-02-13,23950.50,ACC205,Strategic Consulting Premium
+TXN1092,2024-02-13,11750.75,ACC201,Enterprise Software Enhancement
+TXN1093,2024-02-13,5850000.00,ACC202,MAXIMUM - Biological Weapon Financing
+TXN1094,2024-02-14,19650.25,ACC203,Valentine's Day Enterprise Campaign
+TXN1095,2024-02-14,8400.00,ACC204,Holiday Processing Services
+TXN1096,2024-02-14,25800.75,ACC205,Strategic Marketing Initiative
+TXN1097,2024-02-15,14300.50,ACC201,Mid-Month Enterprise Support
+TXN1098,2024-02-15,22750.25,ACC202,Cloud Security Enhancement
+TXN1099,2024-02-15,2950000.00,ACC203,CRITICAL - Drug Lord Financing
+TXN1100,2024-02-16,18950.75,ACC204,Strategic Technology Consulting
+TXN1101,2024-02-16,9750.00,ACC205,Digital Transformation Services
+TXN1102,2024-02-16,13250.25,ACC201,Weekly Enterprise Operations
+TXN1103,2024-02-19,37800.50,ACC202,President's Day Enterprise Special
+TXN1104,2024-02-19,16450.75,ACC203,Holiday Technology Services
+TXN1105,2024-02-19,4250000.00,ACC204,RED ALERT - Chemical Weapon Money
+TXN1106,2024-02-20,28600.25,ACC205,Strategic Partnership Premium
+TXN1107,2024-02-20,12850.00,ACC201,Enterprise License Optimization
+TXN1108,2024-02-20,21400.75,ACC202,Cloud Infrastructure Premium
+TXN1109,2024-02-21,15750.50,ACC203,Mid-Week Technology Support
+TXN1110,2024-02-21,8950.25,ACC204,Business Intelligence Consulting
+TXN1111,2024-02-21,6150000.00,ACC205,EXTREME - Radiological Material Trade
+TXN1112,2024-02-22,34200.75,ACC201,Strategic Enterprise Investment
+TXN1113,2024-02-22,17650.00,ACC202,Technology Innovation Services
+TXN1114,2024-02-22,11450.25,ACC203,Enterprise Security Enhancement
+TXN1115,2024-02-23,26950.50,ACC204,Strategic Consulting Excellence
+TXN1116,2024-02-23,14800.75,ACC205,Digital Asset Optimization
+TXN1117,2024-02-23,3650000.00,ACC201,WARNING - Extortion Proceeds
+TXN1118,2024-02-26,31500.25,ACC202,Month-End Enterprise Preparation
+TXN1119,2024-02-26,18750.00,ACC203,Technology Stack Enhancement
+TXN1120,2024-02-26,9350.75,ACC204,Strategic Planning Services
+TXN1121,2024-02-27,25400.50,ACC205,Enterprise Innovation Platform
+TXN1122,2024-02-27,13650.25,ACC201,Cloud Technology Advancement
+TXN1123,2024-02-27,4950000.00,ACC202,CRITICAL - Insurgent Cell Funding
+TXN1124,2024-02-28,22800.75,ACC203,February Final Enterprise
+TXN1125,2024-02-28,16200.00,ACC204,Month-End Strategic Services
+TXN1126,2024-02-28,8750.25,ACC205,February Close Processing
+TXN1127,2024-02-29,38950.50,ACC201,Leap Day Enterprise Special
+TXN1128,2024-02-29,19450.75,ACC202,Final February Technology
+TXN1129,2024-02-29,2450000.00,ACC203,ALERT - Leap Day Terror Financing
+TXN1130,2024-03-01,42500.25,ACC204,March Opening Enterprise Premium
+TXN1131,2024-03-01,21850.00,ACC205,New Quarter Strategic Launch
+TXN1132,2024-03-01,15300.75,ACC201,March Technology Initiative
+TXN1133,2024-03-04,29750.50,ACC202,First Week March Enterprise
+TXN1134,2024-03-04,17400.25,ACC203,Strategic Technology Development
+TXN1135,2024-03-04,5450000.00,ACC204,RED FLAG - WMD Development Funds
+TXN1136,2024-03-05,24650.75,ACC205,Innovation Tuesday Services
+TXN1137,2024-03-05,12950.00,ACC201,Weekly Enterprise Support
+TXN1138,2024-03-05,18850.25,ACC202,Cloud Infrastructure March
+TXN1139,2024-03-06,33600.50,ACC203,Strategic Partnership Excellence
+TXN1140,2024-03-06,16750.75,ACC204,Enterprise Architecture Premium
+TXN1141,2024-03-06,3850000.00,ACC205,WARNING - Human Organ Trading
+TXN1142,2024-03-07,27900.25,ACC201,Strategic Consulting Premium
+TXN1143,2024-03-07,14200.00,ACC202,Technology Integration Excellence
+TXN1144,2024-03-07,22500.75,ACC203,Business Intelligence Premium
+TXN1145,2024-03-08,19850.50,ACC204,Women's Day Enterprise Campaign
+TXN1146,2024-03-08,9650.25,ACC205,Holiday Technology Services
+TXN1147,2024-03-08,6250000.00,ACC201,MAXIMUM - Child Trafficking Money
+TXN1148,2024-03-11,36750.75,ACC202,Second Week March Premium
+TXN1149,2024-03-11,18950.00,ACC203,Strategic Technology Investment
+TXN1150,2024-03-11,11450.25,ACC204,Enterprise Innovation Support
+TXN1151,2024-03-12,28600.50,ACC205,Digital Transformation Premium
+TXN1152,2024-03-12,15800.75,ACC201,Mid-Week Enterprise Excellence
+TXN1153,2024-03-12,4150000.00,ACC202,CRITICAL - Cyber Warfare Financing
+TXN1154,2024-03-13,23950.25,ACC203,Strategic Partnership Premium
+TXN1155,2024-03-13,12750.00,ACC204,Technology Stack Premium
+TXN1156,2024-03-13,19400.75,ACC205,Enterprise Security Premium
+TXN1157,2024-03-14,31850.50,ACC201,Strategic Innovation Excellence
+TXN1158,2024-03-14,17650.25,ACC202,Cloud Technology Premium
+TXN1159,2024-03-14,2750000.00,ACC203,ALERT - Assassination Funding
+TXN1160,2024-03-15,26400.75,ACC204,Ides of March Enterprise
+TXN1161,2024-03-15,13950.00,ACC205,Mid-Month Strategic Excellence
+TXN1162,2024-03-15,8250.25,ACC201,Regular Enterprise Processing
+TXN1163,2024-03-18,39600.50,ACC202,Third Week March Premium
+TXN1164,2024-03-18,20750.75,ACC203,Strategic Technology Excellence
+TXN1165,2024-03-18,5750000.00,ACC204,RED ALERT - Dirty Bomb Materials
+TXN1166,2024-03-19,32500.25,ACC205,Strategic Partnership Excellence
+TXN1167,2024-03-19,16850.00,ACC201,Enterprise Innovation Premium
+TXN1168,2024-03-19,24200.75,ACC202,Cloud Infrastructure Excellence
+TXN1169,2024-03-20,18650.50,ACC203,Spring Enterprise Campaign
+TXN1170,2024-03-20,11750.25,ACC204,Strategic Consulting Premium
+TXN1171,2024-03-20,4850000.00,ACC205,WARNING - Nerve Agent Financing
+TXN1172,2024-03-21,29800.75,ACC201,Strategic Technology Premium
+TXN1173,2024-03-21,15450.00,ACC202,Enterprise Architecture Excellence
+TXN1174,2024-03-21,22850.25,ACC203,Innovation Platform Premium
+TXN1175,2024-03-22,27200.50,ACC204,Strategic Partnership Excellence
+TXN1176,2024-03-22,14600.75,ACC205,Digital Asset Premium
+TXN1177,2024-03-22,3450000.00,ACC201,CRITICAL - Bioweapon Lab Funding
+TXN1178,2024-03-25,41750.25,ACC202,Fourth Week March Premium
+TXN1179,2024-03-25,21950.00,ACC203,Strategic Innovation Excellence
+TXN1180,2024-03-25,13250.75,ACC204,Enterprise Technology Premium
+TXN1181,2024-03-26,35600.50,ACC205,Strategic Consulting Excellence
+TXN1182,2024-03-26,18450.25,ACC201,Enterprise Security Premium
+TXN1183,2024-03-26,6150000.00,ACC202,EXTREME - Nuclear Proliferation
+TXN1184,2024-03-27,26950.75,ACC203,Month-End Technology Premium
+TXN1185,2024-03-27,12850.00,ACC204,Strategic Partnership Premium
+TXN1186,2024-03-27,19750.25,ACC205,Enterprise Innovation Excellence
+TXN1187,2024-03-28,33400.50,ACC201,Strategic Technology Excellence
+TXN1188,2024-03-28,17200.75,ACC202,Cloud Infrastructure Premium
+TXN1189,2024-03-28,2950000.00,ACC203,ALERT - Mercenary Army Funding
+TXN1190,2024-03-29,24800.25,ACC204,March Final Enterprise Premium
+TXN1191,2024-03-29,13450.00,ACC205,Month-End Strategic Excellence
+TXN1192,2024-03-29,21600.75,ACC201,Final March Technology
+TXN1193,2024-03-30,28950.50,ACC202,Month-End Enterprise Excellence
+TXN1194,2024-03-30,16750.25,ACC203,Strategic Innovation Premium
+TXN1195,2024-03-30,4750000.00,ACC204,WARNING - Genocide Financing
+TXN1196,2024-03-31,45800.75,ACC205,Quarter-End Enterprise Premium
+TXN1197,2024-03-31,23650.00,ACC201,Q1 Close Strategic Excellence
+TXN1198,2024-03-31,15950.25,ACC202,March Final Technology Premium
+TXN1199,2024-03-31,37200.50,ACC203,Quarter-End Innovation Premium
+TXN1200,2024-03-31,7250000.00,ACC204,CRITICAL - Q1 Terror Network Close
