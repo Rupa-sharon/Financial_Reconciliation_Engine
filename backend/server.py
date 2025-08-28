@@ -99,7 +99,12 @@ def prepare_for_mongo(data):
     return data
 
 def parse_from_mongo(item):
-    """Parse datetime strings back from MongoDB"""
+    """Parse datetime strings back from MongoDB and handle ObjectIds"""
+    # Remove MongoDB ObjectId
+    if '_id' in item:
+        del item['_id']
+    
+    # Parse datetime strings
     if isinstance(item.get('created_at'), str):
         try:
             item['created_at'] = datetime.fromisoformat(item['created_at'])
